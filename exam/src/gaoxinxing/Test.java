@@ -2,7 +2,7 @@ package gaoxinxing;
 
 public class Test extends Father{
         
-	//模拟不同模块之间的更新????
+	//模拟不同模块之间的更新
 	double a = 0.2396d;
 	//float a = 0.2396;
 	//byte b = 128;
