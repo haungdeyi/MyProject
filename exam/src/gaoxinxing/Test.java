@@ -2,6 +2,7 @@ package gaoxinxing;
 
 public class Test extends Father{
         
+	String ct = "演示冲突";
 	//模拟不同模块之间的更新
 	double a = 0.2396d;
 	//float a = 0.2396;
