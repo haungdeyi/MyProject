@@ -17,5 +17,7 @@ public class Test extends Father{
 		System.out.println(super.a);
 		//super.setA(1);
 	} 
-
+	
+	//在主分支上修改
+	
 }
